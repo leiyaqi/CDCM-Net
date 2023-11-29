@@ -54,11 +54,9 @@ Testing
 # Usage
 ## clone this repository
   git clone https://github.com/bo-zhang-cs/CACNet-Pytorch.git
-
-  
+Download pretrained models:
+  https://pan.baidu.com/s/1pw0jd0w0HKXCVDLY_KrmbA?pwd=prx4
  
-Download pretrained models to the folder pretrained_model.
-
 ## Testing 
 Annotate the training code then:  
 python  main.py
