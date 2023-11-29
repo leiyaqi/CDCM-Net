@@ -53,8 +53,8 @@ a trustworthy prediction.
 Testing
 # Usage
 ## clone this repository
-  git clone https://github.com/bo-zhang-cs/CACNet-Pytorch.git
-Download pretrained models:
+  git clone [https://github.com/bo-zhang-cs/CACNet-Pytorch.git](https://github.com/leiyaqi/CDCM-Net.git)  
+Download pretrained models:  
   https://pan.baidu.com/s/1pw0jd0w0HKXCVDLY_KrmbA?pwd=prx4
  
 ## Testing 
@@ -64,3 +64,6 @@ python  main.py
 
 ## Training
 python main.py
+
+# License
+The code and DPC2022 dataset are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for NonCommercial use only. Any commercial use should get formal permission first.
