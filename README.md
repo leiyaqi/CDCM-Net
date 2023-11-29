@@ -49,8 +49,6 @@ a trustworthy prediction.
 * matplotlib
 * clip
 * pandas
-  Usage
-Testing
 # Usage
 ## clone this repository
   git clone [https://github.com/bo-zhang-cs/CACNet-Pytorch.git](https://github.com/leiyaqi/CDCM-Net.git)  
