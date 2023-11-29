@@ -66,4 +66,4 @@ python  main.py
 python main.py
 
 # License
-The code and DPC2022 dataset are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for NonCommercial use only. Any commercial use should get formal permission first.
+The codes are released under the GNU 3.0.
