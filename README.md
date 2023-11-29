@@ -28,4 +28,41 @@ be reconstructed using visual features only. Furthermore, we also introduce a
 informativeness and then dynamically integrates reliable information.
 Extensive experiments are performed to demonstrate the superiority of the
 proposed method.
+                  
 
+![asd](https://github.com/leiyaqi/CDCM-Net/assets/34058709/42159044-cb52-42c1-82f1-e5b51d86c8f4)  
+     
+Figure 1: Visual comparison of conventional multi-modal IAA architectures and our
+proposed CDCM-Net. (a)Traditional deep multi-modal architecture require images and
+comments as input. (b)The proposed CDCM-Net use memory blocks to remember the
+inter-relationship of two modalities. The textual (i.e., target) modality is recalled from
+memory by querying the visual (i.e., source) modality. Then, both the visual and the recalled
+textual modalities are fused via a confidence-based dynamic fusion block to conduct
+a trustworthy prediction.
+# Requirements
+* torch
+* tqdm
+* numpy
+* PIL
+* scikit-learn
+* torchvision
+* matplotlib
+* clip
+* pandas
+  Usage
+Testing
+# Usage
+## clone this repository
+  git clone https://github.com/bo-zhang-cs/CACNet-Pytorch.git
+
+  
+ 
+Download pretrained models to the folder pretrained_model.
+
+## Testing 
+Annotate the training code then:  
+python  main.py
+
+
+## Training
+python main.py
