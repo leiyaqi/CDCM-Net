@@ -2,11 +2,11 @@
 This repo is the official implementation of "CDDM-Net" as well as the follow-ups. we solve the problem by proposing a Confidence-based Dynamic Cross-modal Memory Network (CDCM-Net). 
  It currently includes code and models for the following tasks: 
  # Updates
-# 29/11/2023
+* 29/11/2023  
      We release  a portion the code of CDCM-Net
-# .......
-      We will release the complete code after the review 
-  # Introduction 
+* .......  
+      We will release the complete code after the review
+# Introduction 
 Image aesthetic assessment (IAA) aims to design algorithms that can make
 human-like aesthetic decisions. Due to its high subjectivity and complexity,
 visual information alone is limited to fully predict the image’s aesthetic
@@ -28,3 +28,4 @@ be reconstructed using visual features only. Furthermore, we also introduce a
 informativeness and then dynamically integrates reliable information.
 Extensive experiments are performed to demonstrate the superiority of the
 proposed method.
+
