@@ -3,7 +3,9 @@ This repo is the official implementation of "CDDM-Net" as well as the follow-ups
  It currently includes code and models for the following tasks: 
  # Updates
  29/11/2023
-     We will release the code of CDCM-Net
+     We release  a portion the code of CDCM-Net
+ .......
+      We will release the complete code after the review 
   # Introduction 
 Image aesthetic assessment (IAA) aims to design algorithms that can make
 human-like aesthetic decisions. Due to its high subjectivity and complexity,
